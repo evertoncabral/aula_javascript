@@ -29,14 +29,14 @@ console.log(frutas[0].cor)
 
 // trabalhando com datas 
 
-// var d = new Date();
-// alert(d)
-// alert(`Dia:${d.getDate()}`)
-// alert(`Mês:${d.getMonth()}`)
-// alert(`Ano:${d.getFullYear()}`)
-// alert(`Hora:${d.getHours()}`)
-// alert(`Minutos:${d.getMinutes()}`)
-// alert(`Segundos:${d.getSeconds()}`)
+var d = new Date();
+alert(d)
+alert(`Dia:${d.getDate()}`)
+alert(`Mês:${d.getMonth()}`)
+alert(`Ano:${d.getFullYear()}`)
+alert(`Hora:${d.getHours()}`)
+alert(`Minutos:${d.getMinutes()}`)
+alert(`Segundos:${d.getSeconds()}`)
 
 
 // Funções
